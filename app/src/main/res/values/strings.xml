@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">projetDemineur</string>
+    <string name="title_jeu">Jeu</string>
+    <string name="title_parametre">Parametre</string>
+    <string name="title_notifications">Notifications</string>
+</resources>

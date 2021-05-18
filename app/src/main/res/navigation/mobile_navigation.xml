@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_jeu">
+
+    <fragment
+        android:id="@+id/navigation_parametre"
+        android:name="com.example.projetdemineur.ui.parametre.ParametreFragment"
+        android:label="@string/title_parametre"
+        tools:layout="@layout/fragment_parametre" />
+    <fragment
+        android:id="@+id/navigation_jeu"
+        android:name="com.example.projetdemineur.ui.jeu.JeuFragment"
+        android:label="@string/title_jeu"
+        tools:layout="@layout/fragment_jeu" />
+    <fragment
+        android:id="@+id/navigation_notifications"
+        android:name="com.example.projetdemineur.ui.notifications.NotificationsFragment"
+        android:label="@string/title_notifications"
+        tools:layout="@layout/fragment_notifications" />
+</navigation>
