@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/demineur.iml" filepath="$PROJECT_DIR$/.idea/modules/demineur.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/demineur.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/demineur.app.iml" />
+    </modules>
+  </component>
+</project>
